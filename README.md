@@ -63,17 +63,6 @@ pip install -r requirements.txt
 python3 realTimeSR.py
 ```
 
----
-
-## 📂 Folder Structure
-```
-Super-Resolution-Thermal-Cam/
-├── realTimeSR.py          # Real-time SR processing
-├── fast_sr2.py            # Offline SR on recorded data
-├── testthermalcamvis.py   # Simple live viewer
-├── img/                   # Images for README and results
-└── README.md
-```
 
 ---
 
