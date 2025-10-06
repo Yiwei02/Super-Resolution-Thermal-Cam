@@ -31,7 +31,7 @@ This allows us to produce higher-quality thermal images — without the need for
 3. Use that motion data to align each frame precisely.  
 4. Combine (average) the aligned frames to form a higher-resolution result.
 
-![Algorithm Flow](img/algorithm_flow.png|200)
+![Algorithm Flow](img/algorithm_flow.png|400)
 ---
 
 ## 🧪 Results
