@@ -20,7 +20,7 @@ This allows us to produce higher-quality thermal images — without the need for
 | **Raspberry Pi 4B** | Runs fusion algorithm |
 | **Laptop Display** | Shows original and super-resolved results |
 
-<img src="img/hardware.jpg" width="800" alt="Hardware setup"/>
+<img src="img/hardware.jpg" width="600" alt="Hardware setup"/>
 
 ---
 
