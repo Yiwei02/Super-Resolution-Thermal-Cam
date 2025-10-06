@@ -20,7 +20,7 @@ This allows us to produce higher-quality thermal images — without the need for
 | **Raspberry Pi 4B** | Runs fusion algorithm |
 | **Laptop Display** | Shows original and super-resolved results |
 
-<img src="img/hardware.jpg" width="400" alt="Hardware setup"/>
+<img src="img/hardware.jpg" width="800" alt="Hardware setup"/>
 
 ---
 
@@ -31,7 +31,7 @@ This allows us to produce higher-quality thermal images — without the need for
 3. Use that motion data to align each frame precisely.  
 4. Combine (average) the aligned frames to form a higher-resolution result.
 
-![Algorithm Flow](img/algorithm_flow.png|400)
+![Algorithm Flow](img/algorithm_flow.png)
 ---
 
 ## 🧪 Results
