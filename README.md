@@ -37,10 +37,10 @@ This allows us to produce higher-quality thermal images — without the need for
 
 ## 🧪 Results
 
-| Image | Description |
-|--------|--------------|
-| <img src="img/charger.jpg" width="600" alt="original"/> | shows the super resolution of a laptop power supply (rectangular shape). Direct bilinear interpolation inherits sampling artifacts in the low resolution images, creating staircase artifacts in the result, while our SR algorithm shows a clear, straight edge. |
-| <img src="img/hand.jpg" width="600" alt="hand"/> | compares the response of bilinear and our SR algorithm to sudden signal glitches in original thermal image. As our algorithm considers multi frame information, the effects are minimized. |
+|                | <img src="img/charger.jpg" width="600" alt="original"/> | <img src="img/hand.jpg" width="600" alt="hand"/> |
+|----------------|----------------------------------------------------------|--------------------------------------------------|
+| **Description** | shows the super resolution of a laptop power supply (rectangular shape). Direct bilinear interpolation inherits sampling artifacts in the low resolution images, creating staircase artifacts in the result, while our SR algorithm shows a clear, straight edge. | compares the response of bilinear and our SR algorithm to sudden signal glitches in original thermal image. As our algorithm considers multi frame information, the effects are minimized. |
+
 
 The super-resolved image has smoother edges and more detail than both the raw and bilinear versions.
 
