@@ -31,14 +31,14 @@ This allows us to produce higher-quality thermal images — without the need for
 3. Use that motion data to align each frame precisely.  
 4. Combine (average) the aligned frames to form a higher-resolution result.
 
-![Algorithm Flow](img/algorithm_flow.png)
+<img src="img/algrithm.jpg" width="600" alt="algrithm"/>
 ---
 
 ## 🧪 Results
 
 | Image | Description |
 |--------|--------------|
-| ![Original](img/original.png) | Low-resolution image from MLX90640 |
+| <img src="img/hardware.jpg" width="600" alt="Hardware setup"/> | Low-resolution image from MLX90640 |
 | ![Bilinear Upscale](img/bilinear.png) | Simple upscaling (blurry, stair-step effect) |
 | ![Super Resolution](img/sr_result.png) | Multi-frame super-resolution result |
 
