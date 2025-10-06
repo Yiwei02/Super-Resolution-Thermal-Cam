@@ -1,0 +1,12 @@
+COPYRIGHT.txt
+
+Copyright (c) 2025 [Yufei Xi, Yiwei Wang, Carissa Wu]
+
+Permission is hereby granted to use, copy, modify, and distribute this software and its documentation for **teaching purposes** without restriction, including incorporation into course materials, exercises, and demonstrations.
+
+All other rights are reserved. Redistribution for commercial purposes or inclusion in proprietary software is prohibited without explicit written permission from the copyright holder.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+For inquiries, please contact: [xiyufei@umich.edu / yiweiwan@umich.edu / yuriw@umich.edu]
+
